@@ -1,0 +1,32 @@
+---------------------->
+Shortcuts:
+stls
+stfl
+wrap widget
+auto - intendation alt + shift + f
+row and column
+listTile
+
+mockable demo
+future builder
+listview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Material App -> To style the App throughout the App
+Scaffold -> Basic structure of App like Appbar and all.
+main() -> application entry point functions
+runApp() -> Has the Root widget, calls it.
